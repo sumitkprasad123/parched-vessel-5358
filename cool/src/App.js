@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-         This is my first react project
+         Welcome to buy.com
     </div>
   );
 }
