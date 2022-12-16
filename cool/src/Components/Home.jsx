@@ -1,7 +1,8 @@
 import { PhoneIcon, AddIcon, WarningIcon } from '@chakra-ui/icons'
 
+
 export default function Home(){
-    
+   
     return(
         <div>
             <h1>Welcome to Home</h1>
@@ -11,3 +12,7 @@ export default function Home(){
         </div>
     )
 }
+
+
+
+// https://mock-server-app-kln2.onrender.com/users
