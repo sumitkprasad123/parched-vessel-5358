@@ -20,8 +20,8 @@ const NavMenu = ["Exclusive Brands","Stores","Deals","SHOP Travel","Departments"
 function Navbar (){
 
     return(
-         <>
-          <VStack spacing={0} align='stretch' p={1}>
+         <Box >
+          <VStack spacing={0} align='stretch' p={1} position="Relative">
                 <Box h='40px' bg='#202340'>
                     <Center h='40px' gap={4} color="white">
                         Buy now, pay later! Use Sezzle this Holiday Season! <Link href='#'>Learn More</Link>
@@ -81,7 +81,7 @@ function Navbar (){
                 </Box> 
           </VStack>
           
-         </>
+         </Box>
     )
 }
 

@@ -1,6 +1,6 @@
 
-import { Input,InputRightAddon,InputGroup,Select,Container,Divider} from '@chakra-ui/react'
-import { Box ,VStack,Flex,HStack,Text,Stack,Link} from '@chakra-ui/react'
+import { Input,InputRightAddon,InputGroup,Select} from '@chakra-ui/react'
+import { Box,Flex,HStack,Text,Link} from '@chakra-ui/react'
 import {FaFacebookF,FaPinterestP,FaTwitter,FaEnvelope } from "react-icons/fa";
 
 const footerData = [
