@@ -13,7 +13,7 @@ function App() {
         
          <Navbar />
          {/* <AllRouter /> */}
-         {/* <Footer /> */}
+         <Footer />
         
     </div>
   );
